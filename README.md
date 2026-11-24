@@ -3,7 +3,7 @@
 Minecraft **1.21.1** · **NeoForge** · requires **Curios API** (9.x for 1.21.1) and **Extended Crafting** (7.0.x).
 All recipe ingredients are vanilla.
 
-Seven cloaks worn in the Curios **Back** slot. Each one increases **all damage you deal** and your **max health** by the same percentage. Only the cloak you wear counts (they do not stack).
+Seven cloaks worn in a Curios slot. The mod adds its own **Cloak** slot to the player (data pack `curios/slots/cloak.json` + `curios/entities/cloak_player.json`) and also tags the cloaks for the **Back** slot if your pack has one. Each one increases **all damage you deal** and your **max health** by the same percentage. Only the cloak you wear counts (they do not stack).
 
 | # | Cloak | Bonus | Name color | Table | Recipe (center = previous cloak) |
 |---|---|---|---|---|---|
@@ -28,3 +28,6 @@ Replace the 16x16 PNGs in `src/main/resources/assets/cloakmod/textures/item/` (k
 
 ## Settings
 `ModItems.java` (bonus and name color per cloak), recipes in `src/main/resources/data/cloakmod/recipe/`.
+
+## Where is the slot?
+Curios does not show slots in the normal inventory: open your inventory and click the small Curios button next to it.

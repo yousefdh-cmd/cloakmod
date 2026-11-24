@@ -10,5 +10,6 @@
   "tooltip.cloakmod.level": "Cloak level %s",
   "tooltip.cloakmod.damage": "+%s%% damage dealt",
   "tooltip.cloakmod.health": "+%s%% max health",
-  "tooltip.cloakmod.slot": "Worn in the Back curio slot"
+  "tooltip.cloakmod.slot": "Worn in the Cloak curio slot",
+  "curios.identifier.cloak": "Cloak"
 }
