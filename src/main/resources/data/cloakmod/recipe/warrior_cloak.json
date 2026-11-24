@@ -1,0 +1,25 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "tier": 2,
+  "pattern": [
+    "D L D",
+    "     ",
+    "L C L",
+    "     ",
+    "D L D"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "L": {
+      "item": "minecraft:lapis_block"
+    },
+    "C": {
+      "item": "cloakmod:adventurer_cloak"
+    }
+  },
+  "result": {
+    "id": "cloakmod:warrior_cloak"
+  }
+}

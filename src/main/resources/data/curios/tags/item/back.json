@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cloakmod:wanderer_cloak",
+    "cloakmod:adventurer_cloak",
+    "cloakmod:warrior_cloak",
+    "cloakmod:champion_cloak",
+    "cloakmod:conqueror_cloak",
+    "cloakmod:sovereign_cloak",
+    "cloakmod:mythic_cloak"
+  ]
+}

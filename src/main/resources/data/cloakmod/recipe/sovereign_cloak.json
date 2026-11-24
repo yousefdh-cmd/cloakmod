@@ -1,0 +1,32 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "tier": 4,
+  "pattern": [
+    "N A S A N",
+    "         ",
+    "A N S N A",
+    "         ",
+    "S S C S S",
+    "         ",
+    "A N S N A",
+    "         ",
+    "N A S A N"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "A": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "C": {
+      "item": "cloakmod:conqueror_cloak"
+    }
+  },
+  "result": {
+    "id": "cloakmod:sovereign_cloak"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "tier": 4,
+  "pattern": [
+    "S A S A S",
+    "         ",
+    "A NNNNN A",
+    "  NSSSN  ",
+    "S NSCSN S",
+    "  NSSSN  ",
+    "A NNNNN A",
+    "         ",
+    "S A S A S"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "A": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "C": {
+      "item": "cloakmod:sovereign_cloak"
+    }
+  },
+  "result": {
+    "id": "cloakmod:mythic_cloak"
+  }
+}

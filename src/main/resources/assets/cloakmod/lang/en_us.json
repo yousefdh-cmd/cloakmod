@@ -1,0 +1,14 @@
+{
+  "itemGroup.cloakmod": "Cloaks",
+  "item.cloakmod.wanderer_cloak": "Wanderer's Cloak",
+  "item.cloakmod.adventurer_cloak": "Adventurer's Cloak",
+  "item.cloakmod.warrior_cloak": "Warrior's Cloak",
+  "item.cloakmod.champion_cloak": "Champion's Cloak",
+  "item.cloakmod.conqueror_cloak": "Conqueror's Cloak",
+  "item.cloakmod.sovereign_cloak": "Sovereign's Cloak",
+  "item.cloakmod.mythic_cloak": "Mythic Cloak",
+  "tooltip.cloakmod.level": "Cloak level %s",
+  "tooltip.cloakmod.damage": "+%s%% damage dealt",
+  "tooltip.cloakmod.health": "+%s%% max health",
+  "tooltip.cloakmod.slot": "Worn in the Back curio slot"
+}

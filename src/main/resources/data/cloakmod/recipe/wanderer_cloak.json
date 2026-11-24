@@ -1,0 +1,23 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "tier": 1,
+  "pattern": [
+    "LWL",
+    "WSW",
+    "LWL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "cloakmod:wanderer_cloak"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "tier": 2,
+  "pattern": [
+    "GIGIG",
+    "IGGGI",
+    "GGCGG",
+    "IGGGI",
+    "GIGIG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "C": {
+      "item": "cloakmod:wanderer_cloak"
+    }
+  },
+  "result": {
+    "id": "cloakmod:adventurer_cloak"
+  }
+}

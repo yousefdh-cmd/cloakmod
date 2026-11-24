@@ -1,0 +1,27 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "tier": 3,
+  "pattern": [
+    "D  E  D",
+    "       ",
+    "  E E  ",
+    "E  C  E",
+    "  E E  ",
+    "       ",
+    "D  E  D"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "C": {
+      "item": "cloakmod:warrior_cloak"
+    }
+  },
+  "result": {
+    "id": "cloakmod:champion_cloak"
+  }
+}
